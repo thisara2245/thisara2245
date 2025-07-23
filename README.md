@@ -45,8 +45,8 @@
   <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=thisara2245&theme=dark&show_icons=true&count_private=false" alt="GitHub stats" />
-      <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisara2245&theme=dark&hide_border=false" alt="GitHub Streak" title="🔥 Get streak stats for your profile at git.io/streak-stats" />
+      <!--<br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisara2245&theme=dark&hide_border=false" alt="GitHub Streak" title="🔥 Get streak stats for your profile at git.io/streak-stats" />-->
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thisara2245&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=15" alt="Top Languages" />
