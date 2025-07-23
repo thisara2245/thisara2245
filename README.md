@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi there 👋, I'm Thisara Shalitha</h1>
-<h3 align="center">Software Engineering  Undergraduate | Developer | Tech Enthusiast</h3>
+<h3 align="center">Software Engineering Undergraduate | Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/thisara-shalitha" target="_blank">
@@ -12,7 +11,7 @@
   <a href="https://www.instagram.com/thisara710" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisara-shalitha" height="30" width="40" />
   </a>
-  <a href="thisarashalitha100@gmail.com" target="_blank">
+  <a href="mailto:thisarashalitha100@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30" width="40"/>
   </a>
 </p>
@@ -43,18 +42,18 @@
 
 # GitHub Stats:
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thisara2245&theme=dark&show_icons=true&count_private=false" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thisara2245&theme=dark&hide_border=false" />
-  <br></br>
-<td width="50%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=thisara2245&theme=dark&show_icons=true&count_private=false" alt="GitHub stats" />
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisara2245&theme=dark&hide_border=false" alt="GitHub Streak" title="🔥 Get streak stats for your profile at git.io/streak-stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thisara2245&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=15" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thisara2245&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=15"/>
-  
-  </td>
 ---
 
 _✨Thanks for visiting my GitHub! Let's innovate, lead, and succeed together!_
