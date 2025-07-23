@@ -42,9 +42,19 @@
 ---
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thisara2245&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisara2245&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thisara2245&theme=dark&show_icons=true&count_private=false" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thisara2245&theme=dark&hide_border=false" />
+  <br></br>
+<td width="50%" align="center">
 
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thisara2245&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=15"/>
+  
+  </td>
 ---
 
 _✨Thanks for visiting my GitHub! Let's innovate, lead, and succeed together!_
